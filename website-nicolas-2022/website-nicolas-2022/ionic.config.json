@@ -1,0 +1,7 @@
+{
+  "name": "website-nicolas-2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

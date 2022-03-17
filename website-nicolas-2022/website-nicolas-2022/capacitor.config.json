@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "website-nicolas-2022",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
